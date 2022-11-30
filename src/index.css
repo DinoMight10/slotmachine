@@ -1,0 +1,22 @@
+*{
+  background-color: red;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+h1{
+  color: gold;
+  text-align: center;
+}
+.Abhi{
+  display: flex;
+  width: 30%;
+  flex-direction: column;
+  justify-items: center;
+  line-height: 30px;
+  margin-left: 35%;
+  margin-top: 20px;
+  border: 15px solid gold;
+  border-radius: 55px;
+  padding: 50px;
+}
